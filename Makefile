@@ -1,2 +1,2 @@
 main.out: main.cc
-	g++ -o main.out main.cc -lsdl2 -lsdl2_image -lsdl2_mixer -lsdl2_ttf -std=c++11
+	g++ -o main.out main.cc -lSDL2 -lSDL2_image -lSDL2_mixer -lSDL2_ttf -std=c++11
